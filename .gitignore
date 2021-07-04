@@ -144,3 +144,5 @@ static
 
 .vscode
 .DS_Store
+
+.idea/
